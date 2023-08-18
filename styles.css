@@ -458,6 +458,10 @@ a{
     background-image: url(./images/projects/Project2.jpeg);
 }
 
+#project3{
+  background-image: url(./images/projects/Project3.png);
+}
+
 @media (max-width:1300px) {
     .page-header {
       padding-top: 30px;
